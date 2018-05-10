@@ -1,0 +1,5 @@
+about:config
+
+browser.tabs.loadBookmarksInTabs -> true
+browser.tabs.closeWindowWithLastTab -> false
+
