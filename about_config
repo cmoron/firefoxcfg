@@ -2,4 +2,5 @@ about:config
 
 browser.tabs.loadBookmarksInTabs -> true
 browser.tabs.closeWindowWithLastTab -> false
-
+browser.search.openintab -> true
+browser.urlbar.openintab -> true
